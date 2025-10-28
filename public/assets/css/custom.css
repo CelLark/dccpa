@@ -1,0 +1,12 @@
+/* Add here all your css styles (customizations) */
+#contacts-section h2{
+    font-size: 1.5rem !important;
+}
+
+#contacts-section p, #contacts-section h4{
+    font-size: 1.2rem !important;
+}
+
+#page_section p, #page_section li{
+    font-size: 1.2rem !important;
+}
